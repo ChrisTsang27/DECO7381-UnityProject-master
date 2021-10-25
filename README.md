@@ -30,4 +30,6 @@ Children under 9 years old will play this game to increase their knowledge of wa
 
 # Game Play Instruction
 
+Home page:
 
+![image](readme/pic/home.png)
