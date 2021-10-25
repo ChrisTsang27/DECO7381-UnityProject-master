@@ -79,3 +79,13 @@ With the newly build-in pop up quiz system, the users could gain marks easily:
 <p align="center">
  <img src="readme/pic/pop-up.png" width="350" title="pop up quiz page">
 </p>
+
+The latest version of the game has integrated database system, when users try to complete with others, they could simply register or login the game, and the database (Google Firebase) will automatically record the users' scores.
+
+<p align="center">
+ <img src="readme/pic/data.png" width="150" title="link to database">
+</p>
+
+<p align="center">
+ <img src="readme/pic/datainsert.png" width="350" title="database page">
+</p>
