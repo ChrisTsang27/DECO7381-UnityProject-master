@@ -89,3 +89,10 @@ The latest version of the game has integrated database system, when users try to
 <p align="center">
  <img src="readme/pic/datainsert.png" width="350" title="database page">
 </p>
+
+# Contributors
+
+Special thanks to Coders: Muhammad Fathriza Zakeeffa, Zhi Zeng, Zhenyu Zhu, Yuanchao Jiang
+        and the designer: Peiwen Li
+        
+And additional support: (Tutor) Zhijiang Wang
