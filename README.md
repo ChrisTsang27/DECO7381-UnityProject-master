@@ -20,5 +20,9 @@ Firstly, you need to open the game through “waste sorting game.exe”. When yo
 
 # Installation
 
+The file will contain two files, one is built for windows and the other one is built for macOS. For demostration poporse, just select which ever one that fit the user's system.
+
+
+
 # Usage
 Children under 9 years old will play this game to increase their knowledge of waste sorting.
