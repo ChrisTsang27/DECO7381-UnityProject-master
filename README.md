@@ -37,3 +37,11 @@ Home page:
 </p>
 
 When you start the game, the first page (home page) you will see.
+
+Buttons on Home page:
+
+<p align="center">
+ <img src="readme/pic/play.png" width="150" title="play">
+ <img src="readme/pic/tutorial.png" width="150" title="tutorial">
+ <img src="readme/pic/achievement.png" width="150" title="achievement">
+</p>
