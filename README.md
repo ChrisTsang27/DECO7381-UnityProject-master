@@ -27,3 +27,7 @@ The file will contain two files, one is built for windows and the other one is b
 
 # Usage
 Children under 9 years old will play this game to increase their knowledge of waste sorting.
+
+# Game Play Instruction
+
+
