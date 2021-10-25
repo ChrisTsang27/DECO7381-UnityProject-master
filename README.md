@@ -33,5 +33,7 @@ Children under 9 years old will play this game to increase their knowledge of wa
 Home page:
 
 <p align="center">
- <img src="readme/pic/home.png" width="350" title="hover text">
+ <img src="readme/pic/home.png" width="350" title="home page">
 </p>
+
+When you start the game, the first page (home page) you will see.
