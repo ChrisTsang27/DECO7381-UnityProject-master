@@ -48,9 +48,17 @@ Buttons on Home page:
 
 These pictures indicate the basic function of how to play the game. 
 
-When you click on the play button, it will enter the game level select page as shown below:
+When you click on the play button, In the selection page, you need to choose the level of the game, some of the levels are locked and you need to pass the previous levels to unlock them.
 
 <p align="center">
  <img src="readme/pic/gameHome.png" width="350" title="game select">
 </p>
+
+When you click on the tutorial button, it enters the tutorial page as shown below:
+
+<p align="center">
+ <img src="readme/pic/tutorialhome.png" width="350" title="tutorial home">
+</p>
+
+
 
