@@ -21,4 +21,4 @@ Firstly, you need to open the game through “waste sorting game.exe”. When yo
 # Installation
 
 # Usage
-With the purpose of increasing children’s knowledge of waste sorting, this mobile-based game application is for the children under 9 and their family.
+Children under 9 years old will play this game to increase their knowledge of waste sorting.
