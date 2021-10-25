@@ -10,4 +10,6 @@ Peiwen Li - 45619319
 Yuanchao Jiang - 46094025
 
 
-# Title
+# Introduction to the game
+
+Firstly, you need to open the game through “waste sorting game.exe”. When you are on the homepage, you can click the button with question mark to watch the tutorial of the game. During the tutorial, you can click the “homepage” button to return back or you can click the button on the right to enter the next step. By the way the loop button is used for changing the color of trash bin. After this tutorial you will have a general understanding of the game and know which bin is used for what kind of garbage. Next, you can click the “play” button to enter the game mode. First, you need to choose the level and some levels are locked (you need to finish the previous levels to unlock them). 
