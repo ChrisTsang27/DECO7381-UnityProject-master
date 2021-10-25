@@ -42,7 +42,8 @@ Buttons on Home page:
 
 
  <p float="left">
-  <img src="readme/pic/play.png" width="100" margin-left="100"/>
-  <img src="readme/pic/tutorial.png" width="100" margin-left="100"/> 
-  <img src="readme/pic/achievement.png" width="100" margin-left="100"/>
-</p>
+  <img src="readme/pic/play.png" width="100" style="float:left; padding-right:10px"/>
+  <img src="readme/pic/tutorial.png" width="100" style="float:left; padding-right:10px"/> 
+  <img src="readme/pic/achievement.png" width="100" style="float:left; padding-right:10px"/>
+ </p>
+
