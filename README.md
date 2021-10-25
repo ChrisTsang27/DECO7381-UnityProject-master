@@ -43,7 +43,7 @@ Buttons on Home page:
 
  <p>
   <img src="readme/pic/play.png" width="100" title="home page" align="left"/>
-  <img src="readme/pic/tutorial.png" width="100" title="tutorial page" align="left" margin-right:"10em"/> 
+  <img src="readme/pic/tutorial.png" width="100" title="tutorial page" align="left"/> 
   <img src="readme/pic/achievement.png" width="100" title="achievement page" align="center"/>
  </p>
 
