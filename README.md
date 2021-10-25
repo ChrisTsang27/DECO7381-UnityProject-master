@@ -77,5 +77,5 @@ Then when you fail to catch the garbage and loss all your lifes, or the time end
 With the newly build-in pop up quiz system, the users could gain marks easily:
 
 <p align="center">
- <img src="readme/pic/pop-up.png" width="350" title="game over page">
+ <img src="readme/pic/pop-up.png" width="350" title="pop up quiz page">
 </p>
