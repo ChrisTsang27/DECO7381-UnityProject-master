@@ -22,7 +22,7 @@ Firstly, you need to open the game through “waste sorting game.exe”. When yo
 
 The file will contain two files, one is built for windows and the other one is built for macOS. For demostration poporse, just select which ever one that fit the user's system.
 
-![image text](https://github.com/ChrisTsang27/DECO7381-UnityProject-master/tree/master/readme/pic/gamebuild.png)
+![Image text](https://github.com/ChrisTsang27/DECO7381-UnityProject-master/tree/master/readme/pic/gamebuild.png)
 
 
 # Usage
