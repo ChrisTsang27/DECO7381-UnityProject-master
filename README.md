@@ -41,10 +41,10 @@ When you start the game, the first page (home page) you will see.
 Buttons on Home page:
 
 
- <p align="center">
-  <img src="readme/pic/play.png" width="100" title="home page"/>
-  <img src="readme/pic/tutorial.png" width="100" style="margin-left:100px";/> 
-  <img src="readme/pic/achievement.png" width="100" style="margin-left:10px; padding-right:10px"/>
+ <p>
+  <img src="readme/pic/play.png" width="100" title="home page" align="left"/>
+  <img src="readme/pic/tutorial.png" width="100" title="tutorial page" align="center"/> 
+  <img src="readme/pic/achievement.png" width="100" title="achievement page" align="right"/>
  </p>
 
 
