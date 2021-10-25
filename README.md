@@ -60,5 +60,16 @@ When you click on the tutorial button, it enters the tutorial page as shown belo
  <img src="readme/pic/tutorialhome.png" width="350" title="tutorial home">
 </p>
 
+In each level you have two minutes to play it. What you need to do is to catch the correct garbage with the accurate trash bin. If time is up, you need to answer the questions in the popup and get extra score.
 
+<p>
+  <img src="readme/pic/gamePlay.png" width="100" title="game play 1" align="left"/>
+  <img src="readme/pic/gameplay2.png" width="100" title="game play 2" align="left"/> 
+  <img src="readme/pic/gamePlay3.png" width="100" title="game play 3" align="center"/>
+ </p>
 
+Then when you fail to catch the garbage and loss all your lifes, or the time ended, you will recieve the marks and game over page.
+
+<p align="center">
+ <img src="readme/pic/gameOver.png" width="350" title="game over page">
+</p>
