@@ -20,7 +20,7 @@ Firstly, you need to open the game through “waste sorting game.exe”. When yo
 
 # Installation
 
-The file will contain two files, one is built for windows and the other one is built for macOS. For demostration poporse, just select which ever one that fit the user's system. Download the zip file from github, extract the zip file, and you will see the 2 builds. Just double click the one that fits your computer system and open it, then just enjoy.
+The file will contain two files, one is built for windows and the other one is built for macOS. For demostration poporse, just select which ever one that fit the user's system. Download the zip file from github, extract the zip file, and you will see the 2 builds. Just double click the one that fits your computer system and open it, then just enjoy. If you want to check the code in Unity, the version is 2020.3.14f1.
 
 
 ![image text](readme/pic/gamebuild.png)
